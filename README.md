@@ -2,7 +2,7 @@
 
 Proyecto que demuestra la implementación de URLs amigables (slugs) en una aplicación Flask.
 
-!(Resultado)[https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/rutas-amigables-python-flask.png]
+![Resultado](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/rutas-amigables-python-flask.png)
 
 
 ## Características
