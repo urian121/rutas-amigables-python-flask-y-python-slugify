@@ -73,3 +73,17 @@ Proyecto que demuestra la implementación de URLs amigables (slugs) en una aplic
 
 - `/` - Lista de productos
 - `/producto/<slug>` - Detalle de producto por slug
+
+## 🙌 Cómo puedes apoyar 📢:
+
+✨ **Comparte este proyecto** con otros desarrolladores para que puedan beneficiarse 📢.
+
+☕ **Invítame un café o una cerveza 🍺**:
+   - [Paypal](https://www.paypal.me/iamdeveloper86) (`iamdeveloper86@gmail.com`).
+
+### ⚡ ¡No olvides SUSCRIBIRTE a la [Comunidad WebDeveloper](https://www.youtube.com/WebDeveloperUrianViera?sub_confirmation=1)!
+
+
+#### ⭐ **Déjanos una estrella en GitHub**:
+   - Dicen que trae buena suerte 🍀.
+**Gracias por tu apoyo 🤓.**
