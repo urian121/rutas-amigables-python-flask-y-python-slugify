@@ -9,6 +9,13 @@ PRODUCTS = [
   {"id": 1, "name": "Camiseta Blanca de Algodón", "price": 29.99},
   {"id": 2, "name": "Laptop Gamer RTX 4090", "price": 2499.00},
   {"id": 3, "name": "Auriculares Inalámbricos Bluetooth", "price": 79.5},
+  {"id": 4, "name": "Smartphone Samsung Galaxy S24", "price": 899.99},
+  {"id": 5, "name": "Tablet iPad Pro 12.9 pulgadas", "price": 1299.00},
+  {"id": 6, "name": "Smartwatch Apple Watch Series 9", "price": 399.00},
+  {"id": 7, "name": "Cámara Canon EOS R5", "price": 3899.00},
+  {"id": 8, "name": "Altavoz Bluetooth JBL Charge 5", "price": 149.99},
+  {"id": 9, "name": "Monitor Gaming 4K 27 pulgadas", "price": 599.00},
+  {"id": 10, "name": "Teclado Mecánico RGB Gaming", "price": 89.99},
 ]
 
 # Generar slug al arrancar (podrías guardarlo en DB en vez de generarlo cada vez)
